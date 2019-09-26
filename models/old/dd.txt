@@ -1,0 +1,1 @@
+sequelize model:create --name Achat --attributes id:uuid,code:string,designation:text,prix_vente:decimal,prix_achat:decimal,qte:decimal
